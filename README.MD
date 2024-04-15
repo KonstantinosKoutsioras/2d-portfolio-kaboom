@@ -10,6 +10,11 @@ Live Demo : https://jslegenddev.github.io/portfolio/
 
 Watch the tutorial I made on how to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
 
+Map files (map.json + map.png): https://github.com/JSLegendDev/2d-portfolio-kaboom/tree/master/public
+Spritesheet: https://github.com/JSLegendDev/2d-portfolio-kaboom/blob/master/public/spritesheet.png
+Fonts: https://datagoblin.itch.io/monogram
+Tiled software: https://mapeditor.org
+
 I used a modified version of this original tileset (Giving credit where it's due) : https://momen-games.itch.io/happy-la-v2-ts
 
 # How to run
